@@ -1,0 +1,121 @@
+,,0,1
+long_term_credit_card_opening_propensity_score,count,76689.0,8113.0
+long_term_credit_card_opening_propensity_score,mean,6.0836033137167895,9.638123997958552
+long_term_credit_card_opening_propensity_score,std,5.498737739473216,7.265662507907216
+long_term_credit_card_opening_propensity_score,min,0.0,0.0
+long_term_credit_card_opening_propensity_score,25%,3.03030303,3.03030303
+long_term_credit_card_opening_propensity_score,50%,6.0606060610000005,9.090909091
+long_term_credit_card_opening_propensity_score,75%,9.090909091,12.12121212
+long_term_credit_card_opening_propensity_score,max,78.78787879,81.81818182
+creditworthiness_score,count,76689.0,8113.0
+creditworthiness_score,mean,9493.133931175988,9303.842974461533
+creditworthiness_score,std,575.694672607187,561.4114993645352
+creditworthiness_score,min,8142.857143000001,8181.818181999999
+creditworthiness_score,25%,9103.896104000001,8909.090909
+creditworthiness_score,50%,9467.532468000001,9285.714286
+creditworthiness_score,75%,9857.142856999999,9649.350649
+creditworthiness_score,max,11038.96104,11038.96104
+spend_potential,count,76689.0,8113.0
+spend_potential,mean,43.95755821538021,3.392066952865519
+spend_potential,std,6254.414115367214,5.349212859873322
+spend_potential,min,0.0,0.0
+spend_potential,25%,0.951801802,0.7256756759999999
+spend_potential,50%,2.41509009,1.745495495
+spend_potential,75%,5.698873873999999,3.9819819819999998
+spend_potential,max,1000000.0,99.58198198
+number_of_credit_cards,count,76689.0,8113.0
+number_of_credit_cards,mean,114.01736885342096,138.3331689880439
+number_of_credit_cards,std,80.56352880030765,96.36559533377043
+number_of_credit_cards,min,33.0,33.0
+number_of_credit_cards,25%,66.0,66.0
+number_of_credit_cards,50%,99.0,99.0
+number_of_credit_cards,75%,165.0,198.0
+number_of_credit_cards,max,1221.0,924.0
+short_term_credit_card_opening_propensity_score,count,76689.0,8113.0
+short_term_credit_card_opening_propensity_score,mean,1.6391667723090615,3.028775739567511
+short_term_credit_card_opening_propensity_score,std,2.464351123698644,3.475100076372155
+short_term_credit_card_opening_propensity_score,min,0.0,0.0
+short_term_credit_card_opening_propensity_score,25%,0.0,0.0
+short_term_credit_card_opening_propensity_score,50%,0.0,3.03030303
+short_term_credit_card_opening_propensity_score,75%,3.03030303,6.0606060610000005
+short_term_credit_card_opening_propensity_score,max,24.24242424,30.303030300000003
+long_term_credit_card_cancellation_propensity_score,count,76689.0,8113.0
+long_term_credit_card_cancellation_propensity_score,mean,2.4301390690996443,2.0677268005641936
+long_term_credit_card_cancellation_propensity_score,std,3.285274797107802,3.643276672627132
+long_term_credit_card_cancellation_propensity_score,min,0.0,0.0
+long_term_credit_card_cancellation_propensity_score,25%,0.0,0.0
+long_term_credit_card_cancellation_propensity_score,50%,1.298701299,0.0
+long_term_credit_card_cancellation_propensity_score,75%,3.896103896,2.597402597
+long_term_credit_card_cancellation_propensity_score,max,41.55844156,68.83116883
+credit_card_utilization_score,count,76689.0,8113.0
+credit_card_utilization_score,mean,7.087244150622812,6.65322322197277
+credit_card_utilization_score,std,4.369688813182625,4.043968372537246
+credit_card_utilization_score,min,0.0,0.0
+credit_card_utilization_score,25%,3.5,3.333333333
+credit_card_utilization_score,50%,6.666666667,6.166666667
+credit_card_utilization_score,75%,10.16666667,9.333333332999999
+credit_card_utilization_score,max,40.5,47.0
+number_of_attempts_to_open_credit_cards,count,76689.0,8113.0
+number_of_attempts_to_open_credit_cards,mean,13.78820952157415,20.693208430913348
+number_of_attempts_to_open_credit_cards,std,14.644612981516193,19.87665799401149
+number_of_attempts_to_open_credit_cards,min,0.0,0.0
+number_of_attempts_to_open_credit_cards,25%,4.0,8.0
+number_of_attempts_to_open_credit_cards,50%,8.0,16.0
+number_of_attempts_to_open_credit_cards,75%,20.0,28.0
+number_of_attempts_to_open_credit_cards,max,344.0,284.0
+history_at_credit_bureau,count,76689.0,8113.0
+history_at_credit_bureau,mean,36.44396740951835,32.97112658695799
+history_at_credit_bureau,std,10.19479810244954,9.34493952645849
+history_at_credit_bureau,min,21.33333333,21.0
+history_at_credit_bureau,25%,27.91666667,24.66666667
+history_at_credit_bureau,50%,35.58333333,32.0
+history_at_credit_bureau,75%,42.75,38.58333333
+history_at_credit_bureau,max,89.5,80.58333333
+total_limit_across_credit_cards,count,76689.0,8113.0
+total_limit_across_credit_cards,mean,1714.1242551082946,1211.0285960803649
+total_limit_across_credit_cards,std,1557.4102333686649,1299.9345725534893
+total_limit_across_credit_cards,min,25.0,50.0
+total_limit_across_credit_cards,25%,700.0,425.0
+total_limit_across_credit_cards,50%,1275.0,800.0
+total_limit_across_credit_cards,75%,2250.0,1475.0
+total_limit_across_credit_cards,max,38550.0,18250.0
+contact_history_score,count,76689.0,8113.0
+contact_history_score,mean,170.39764503383796,119.03488228768643
+contact_history_score,std,158.18692942965424,146.49552803670446
+contact_history_score,min,0.0,0.0
+contact_history_score,25%,45.0,0.0
+contact_history_score,50%,135.0,60.0
+contact_history_score,75%,255.0,180.0
+contact_history_score,max,1005.0,1005.0
+Balance Transfer Propensity Score,count,76689.0,8113.0
+Balance Transfer Propensity Score,mean,50.389091003924946,50.447060273634904
+Balance Transfer Propensity Score,std,28.886879210948248,28.977056642883063
+Balance Transfer Propensity Score,min,1.0,1.0
+Balance Transfer Propensity Score,25%,25.0,25.0
+Balance Transfer Propensity Score,50%,50.0,51.0
+Balance Transfer Propensity Score,75%,75.0,75.0
+Balance Transfer Propensity Score,max,100.0,100.0
+Applied for the card,count,76689.0,8113.0
+Applied for the card,mean,0.03044765220566183,1.0
+Applied for the card,std,0.17181669774774455,0.0
+Applied for the card,min,0.0,1.0
+Applied for the card,25%,0.0,1.0
+Applied for the card,50%,0.0,1.0
+Applied for the card,75%,0.0,1.0
+Applied for the card,max,1.0,1.0
+Sampling Factor ,count,76689.0,8113.0
+Sampling Factor ,mean,96.98568243163947,1.0
+Sampling Factor ,std,17.009853077028,0.0
+Sampling Factor ,min,1.0,1.0
+Sampling Factor ,25%,100.0,1.0
+Sampling Factor ,50%,100.0,1.0
+Sampling Factor ,75%,100.0,1.0
+Sampling Factor ,max,100.0,1.0
+targeted_product_enc,count,76689.0,8113.0
+targeted_product_enc,mean,3.4394893661411676,3.949710341427339
+targeted_product_enc,std,1.4329066613531392,1.3531631535519766
+targeted_product_enc,min,1.0,1.0
+targeted_product_enc,25%,2.0,3.0
+targeted_product_enc,50%,3.0,5.0
+targeted_product_enc,75%,5.0,5.0
+targeted_product_enc,max,5.0,5.0
